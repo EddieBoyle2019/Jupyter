@@ -1,5 +1,0 @@
-name: ipyleaflet
-channels:
-  - conda-forge
-dependencies:
-  - ipyleaflet=0.16.0
