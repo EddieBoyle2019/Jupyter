@@ -1,0 +1,64 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.19648, 55.95206 ]
+    },
+    "properties" : {
+      "titles" : "Edinburgh",
+      "annotations" : 48
+    },
+    "uris" : [ "http://sws.geonames.org/2650225" ],
+    "titles" : [ "Edinburgh" ],
+    "names" : [ "Edinburgh", "Edinburgh", "Edimburgo", "Édimbourg", "Edimburgo", "エディンバラ", "Edimburgo", "Эдинбург", "Εδιμβούργο", "এডিনবরা", "एडिनबरा", "Edinburgh", "إدنبرة", "Aebura", "爱丁堡" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh", "Edinburgh" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.61139, 55.06959 ]
+    },
+    "properties" : {
+      "titles" : "Dumfries",
+      "annotations" : 12
+    },
+    "uris" : [ "http://sws.geonames.org/2650798" ],
+    "titles" : [ "Dumfries" ],
+    "names" : [ "Дамфрис", "ダンフリーズ", "鄧弗里斯" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries", "Dumfries" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -4.25763, 55.86515 ]
+    },
+    "properties" : {
+      "titles" : "Glasgow",
+      "annotations" : 6
+    },
+    "uris" : [ "http://sws.geonames.org/2648579" ],
+    "titles" : [ "Glasgow" ],
+    "names" : [ "Glasgow", "Glasgow", "Glasgow", "Γλασκώβη", "Glasgow", "Glasgow", "グラスゴー", "Glasgow", "Глазго", "格拉斯哥", "ग्लासगो", "غلاسكو", "গ্লাসগো", "ਗਲਾਸਗੋ" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Glasgow", "Glasgow", "Glasgow", "Glasgow", "Glasgow", "Glasgow" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -4.26644, 55.45445 ]
+    },
+    "properties" : {
+      "titles" : "Cumnock",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/2651706" ],
+    "titles" : [ "Cumnock" ],
+    "names" : [ "Cumnock" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "CUMNOCK" ]
+  } ]
+}
