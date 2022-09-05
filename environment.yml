@@ -3,3 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - ipyleaflet=0.16.0
+  - ipywidgets
