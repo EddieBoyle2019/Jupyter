@@ -4,6 +4,7 @@
 
 https://mybinder.org/v2/gh/EddieBoyle2019/Jupyter/HEAD?labpath=notebook6.ipynb
 
-###### 2.
+###### 2. Workflow to produce interactive web map from manually selected locations:
 
-###### 3.
+https://mybinder.org/v2/gh/EddieBoyle2019/Jupyter/HEAD?labpath=notebook7.ipynb
+
